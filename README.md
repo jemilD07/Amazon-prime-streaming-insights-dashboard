@@ -37,7 +37,8 @@ This repository contains an interactive Power BI dashboard analyzing the Amazon 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Preview.png)
+![Dashboard_Preview](https://github.com/user-attachments/assets/3ce22253-24a6-43c4-ab38-ac866f8e411a)
+(Dashboard_Preview.png)
 
 ---
 
